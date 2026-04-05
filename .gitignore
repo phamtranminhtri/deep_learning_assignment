@@ -1,2 +1,6 @@
 .venv
 .idea
+source/assignment_1/text/dataset
+source/assignment_1/text/weight
+source/assignment_1/multimodal/dataset
+source/assignment_1/multimodal/weight
